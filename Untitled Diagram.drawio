@@ -1,1 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T23:47:37.329Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" version="15.5.1" etag="d74OI8G-IKpERbKqvp35" type="github"><diagram id="JbY170U7IqSvqu85SR5W">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-12T23:59:13.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="zs9f0gPJ-lzg80AOg4gt" version="15.5.1" type="github">
+  <diagram id="JbY170U7IqSvqu85SR5W" name="Page-1">
+    <mxGraphModel dx="1572" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-1" target="pNcccTlrxPfnC9-xs_oP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-1" value="INICIO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-2" target="pNcccTlrxPfnC9-xs_oP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-2" value="CADASTRO DATA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-4" target="pNcccTlrxPfnC9-xs_oP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-4" value="DATA ATUAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-6" target="pNcccTlrxPfnC9-xs_oP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-6" target="pNcccTlrxPfnC9-xs_oP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-6" value="SEGUE CADASTRO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-8" target="pNcccTlrxPfnC9-xs_oP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-8" value="IDADE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-10" target="pNcccTlrxPfnC9-xs_oP-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="260" />
+              <mxPoint x="410" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-10" value="IDADE&amp;gt;=18&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-12" value="NAO SEGUE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-14" target="pNcccTlrxPfnC9-xs_oP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-14" value="CADASTRA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-16" target="pNcccTlrxPfnC9-xs_oP-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="230" />
+              <mxPoint x="670" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-16" target="pNcccTlrxPfnC9-xs_oP-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-16" value="VAGAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-18" target="pNcccTlrxPfnC9-xs_oP-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-18" value="V&amp;lt;=100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-20" target="pNcccTlrxPfnC9-xs_oP-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-20" value="CADASTRA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-22" target="pNcccTlrxPfnC9-xs_oP-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-22" value="LISTA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-26" target="pNcccTlrxPfnC9-xs_oP-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-26" value="V&amp;gt;100" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-28" value="NAO SEGUE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="pNcccTlrxPfnC9-xs_oP-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="380" as="sourcePoint" />
+            <mxPoint x="480" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-33" value="IDADE&amp;lt;=8 NÃO SEGUE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-34" target="pNcccTlrxPfnC9-xs_oP-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pNcccTlrxPfnC9-xs_oP-34" target="pNcccTlrxPfnC9-xs_oP-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-34" value="SE ESTIVER VAGA CADASTRA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-36" value="SE NÃO&amp;nbsp; FIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pNcccTlrxPfnC9-xs_oP-38" value="FIM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
